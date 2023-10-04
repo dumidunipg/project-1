@@ -1,3 +1,6 @@
+# Adding API key files
+geoapify_key.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
