@@ -1,4 +1,7 @@
 # project-1
 UCSD Project 1
 
-Will it be in the main brand or the new one
+## Unpacking Tuples: 
+- https://www.geeksforgeeks.org/python-check-if-variable-is-tuple/#
+## Crime API
+- https://www.justice.gov/developer
