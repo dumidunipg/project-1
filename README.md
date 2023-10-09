@@ -1,6 +1,19 @@
 # project-1
 UCSD Project 1
 
+## Data Analysis
+### **Census**
+- Write analysis here
+
+### **Crime**
+- Write analysis here
+
+### **Services**
+- Write analysis here
+
+### **Transportation**
+- Write analysis here
+
 ## APIs Used:
 ### Crime API
 - https://www.justice.gov/developer
@@ -11,7 +24,8 @@ UCSD Project 1
 
 ## Code Sources and Locations:
 ### **Census**
-
+#### WRITE DESCRIPTION HERE
+- Write sources here
 
 ### **Crime**
 #### Unpacking Tuples: 
@@ -29,4 +43,5 @@ UCSD Project 1
 - https://stackoverflow.com/questions/64682028/numpy-float64-object-has-no-attribute-fillna-when-filling-nan
 
 ### **Transportation**
-
+#### WRITE DESCRIPTION HERE
+- Write sources here
