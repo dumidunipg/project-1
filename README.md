@@ -30,9 +30,9 @@ UCSD Project 1
 
 - [Reference figure 2016:](2016_Crime_v_Migration.png)
 - [Reference figure 2018:](2017_Crime_v_Migration.png)
-- [Reference figure 2018:](2018_Crime_v_Migration.png),
-- [Reference figure 2019:](2019_Crime_v_Migration.png),
-- [Reference figure 2020:](2020_Crime_v_Migration.png),
+- [Reference figure 2018:](2018_Crime_v_Migration.png)
+- [Reference figure 2019:](2019_Crime_v_Migration.png)
+- [Reference figure 2020:](2020_Crime_v_Migration.png)
 - [Reference figure 2021:](2021_Crime_v_Migration.png)
 
 The p-values for each year as well as all years are well below the 0.05 threshold which indicates that these results are statistically significant.
