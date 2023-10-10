@@ -10,7 +10,7 @@ UCSD Project 1
 
 ### **Crime**
 
-#### Question: Is migration influenced by crime rate between 2016-2021?
+#### Question: Is migration influenced by the number of crimes between 2016-2021?
 
 #### API: The API used to compile the crime data comes from the FBI Uniform Crime Reporting (UCR) program. Different agencies submit data which is compiled into counts of crime offenses by location.
 
