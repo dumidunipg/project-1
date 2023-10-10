@@ -29,13 +29,14 @@ UCSD Project 1
 -From regression analysis, we see that there is a strong positive correlation between crime and migration with the correlation betweeen crime and migration from 2016-2021 being 0.89. When we observe the correlation between crime and migration for each year, we see 2016-2018 starting off with a very strong correlations of 0.9. However, we see the correlation between the two factors dipping in 2019 to 2021 with 2021 having a very weak correlation of 0.68 between crime and migration. [Reference figure 2016:](2016_Crime_v_Migration.png), [Reference figure 2018:](2017_Crime_v_Migration.png),  [Reference figure 2018:](2018_Crime_v_Migration.png), [Reference figure 2019:](2019_Crime_v_Migration.png), [Reference figure 2020:](2020_Crime_v_Migration.png), [Reference figure 2021:](2021_Crime_v_Migration.png)
 
 - The p-values for each year as well as all years are well below the 0.05 threshold which indicates that these results are statistically significant.
-        - p-value for the total period (2016-2021): 1.12e-17
-        - p-value for 2016: 1.98e-18
-        - p-value for 2017: 2.24e-18
-        - p-value for 2018: 3.41e-18
-        - p-value for 2019: 9.63e-14
-        - p-value for 2020: 6.47e-12
-        - p-value for 2021: 6.97e-08
+
+- p-value for the total period (2016-2021): 1.12e-17
+- p-value for 2016: 1.98e-18
+- p-value for 2017: 2.24e-18
+- p-value for 2018: 3.41e-18
+- p-value for 2019: 9.63e-14
+- p-value for 2020: 6.47e-12
+- p-value for 2021: 6.97e-08
 
 - Looking at the standard of error, we see for the most part that these values are close to 0 which indicates that there is low deviation of the error of the regression models. Most of the observed values for each year between 2016 and 2021 fall between 0.08 and 0.12 from the regression line. 
 
