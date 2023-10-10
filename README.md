@@ -10,7 +10,30 @@ UCSD Project 1
 
 ### **Crime**
 
-- Write analysis here
+#### Question: Is migration influenced by crime rate between 2016-2021?
+- API: The API used to compile the crime data comes from the FBI Uniform Crime Reporting (UCR) program. Different agencies submit data which is compiled into count sof crime offenses by location.
+
+#### 
+
+#### While parsing through the parameters offered by API and looking at the data for one state, there were a few types of crimes that were reported which in the earlier years of the period from 2016-2021 that stopped being reported in the later years, for example drunkenness. There were also a few categories of crimes where it seemed very specific and most of the data within the period for all states was 0. These categories were dropped when choosing the types of crimes to delve into. 
+
+#### Looking into the Crime trends for the United States within 2016-2021 compared to Migration trends, we are able to see that migration is stead throughout the years but there is a sudden drop in 2020 (possibly due to the pandemic). However, crime has been dramatically decreasing in numbers according to this data. 
+
+#### The year with the most migration was 2019. When we look at the bar graph comparing crimes and migration for each state in 2019, it appears that the larger states have higher crime. The state with the highest crime being California compared to the migration in and out of California for that year.
+
+#### The year with the most crime was 2016. When we compare the years of 2016 and 2019, we see a trend of mostly  crimes decreasing  as migration increases, some states where this is an exception are Iowa, Kentucky. In these states migration stayed consistent between 2016 and 2019, but crime increased. 
+
+#### An interesting visual to look into is the total crime per total migration ratio per state over 2016-2021, plotted on the U.S. map. From this visual we are able to see that based on the crime to migration ratio, it is not just the large states that experience higher crime rates. 
+
+#### But is there a relationship between crime and migration?
+
+-From regression analysis, we see that there is a strong positive correlation between crime and migration with the correlation betweeen crime and migration from 2016-2021 being 0.89. When we observe the correlation between crime and migration for each year, we see 2016-2018 starting off with a very strong correlations of 0.9. However, we see the correlation between the two factors dipping in 2019 to 2021 with 2021 having a very weak correlation of 0.68 between crime and migration. 
+
+- The p-values for each year as well as all years are well below the 0.05 threshold which indicates that these results are statistically significant.
+
+- Looking at the standard of error, we see for the most part that these values are close to 0 which indicates that there is low deviation of the error of the regression models. 
+
+#### Overall, there seems to be a positive correlation between crime and migration, however this relationship seems to be weakening over the years. 
 
 ### **Services**
 
