@@ -26,7 +26,7 @@ UCSD Project 1
 
 #### But is there a relationship between crime and migration?
 
--From regression analysis, we see that there is a strong positive correlation between crime and migration with the correlation betweeen crime and migration from 2016-2021 being 0.89. When we observe the correlation between crime and migration for each year, we see 2016-2018 starting off with a very strong correlations of 0.9. However, we see the correlation between the two factors dipping in 2019 to 2021 with 2021 having a very weak correlation of 0.68 between crime and migration. 
+- From regression analysis, we see that there is a strong positive correlation between crime and migration with the correlation betweeen crime and migration from 2016-2021 being 0.89. When we observe the correlation between crime and migration for each year, we see 2016-2018 starting off with a very strong correlations of 0.9. However, we see the correlation between the two factors dipping in 2019 to 2021 with 2021 having a very weak correlation of 0.68 between crime and migration. 
 
 - [Reference figure 2016](2016_Crime_v_Migration.png)
 - [Reference figure 2018](2017_Crime_v_Migration.png)
