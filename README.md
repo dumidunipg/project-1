@@ -116,6 +116,22 @@ UCSD Project 1
 
 - https://stackoverflow.com/questions/64682028/numpy-float64-object-has-no-attribute-fillna-when-filling-nan
 
+#### `**font` Keyword Argument:
+
+- https://stackoverflow.com/questions/21321670/how-to-change-fonts-in-matplotlib-python
+
+#### Creating Subplots and Labeling Them:
+
+- https://matplotlib.org/stable/gallery/subplots_axes_and_figures/subplots_demo.html
+
+#### Available Colors for Figures:
+
+- https://matplotlib.org/stable/gallery/color/named_colors.html
+
+#### Adding Links in Markdown File:
+
+- https://www.markdownguide.org/basic-syntax/
+
 ### **Transportation**
 
 #### WRITE DESCRIPTION HERE
