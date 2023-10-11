@@ -14,7 +14,9 @@ UCSD Project 1
 - employed civilians(B23025_004E), unemployed civilians(B23025_005E), employable civilians(B23025_003E)   
 - median household income(B19013_001E), per capita income(B19301_001E)   
 - total population(B01003_001E)
-- total amount of people moved from different states (B07001_065E)   
+- total amount of people moved from different states (B07001_065E)
+
+#### Note: Since DC and Purto Rico are not states, they are droped
 
 #### Draws a scatter plot with linear regression to find the correlation between the total migration and employment rate from 2016 to 2021
 [Average Total Migration VS Average Employed Rate](https://github.com/dumidunipg/project-1/blob/main/Census/Output/Average%20Total%20Migration%20VS%20Average%20Employed%20Rate.png)
