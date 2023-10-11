@@ -1,3 +1,5 @@
+# Adding API key files
+transportation_api_key.py
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
