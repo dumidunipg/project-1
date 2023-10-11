@@ -33,7 +33,7 @@ From the plot, see that the average median household income jumps around while t
 
 ### **Crime**
 
-#### Question: Does migration effect the number of crimes between 2016-2021?
+#### Question: Is there a relationship between crime and migration?
 
 #### API: The API used to compile the crime data comes from the FBI Uniform Crime Reporting (UCR) program. Different agencies submit data which is compiled into counts of crime offenses by location.
 
@@ -70,7 +70,7 @@ The p-values for each year as well as all years are well below the 0.05 threshol
 
 - Looking at the standard of error, we see for the most part that these values are close to 0 which indicates that there is low deviation of the error of the regression models. Most of the observed values for each year between 2016 and 2021 fall between 0.08 and 0.12 from the regression line. 
 
-#### Overall, there seems to be a strong positive correlation between crime and migration, however this relationship seems to be weakening over the years. We can conclude that migration does affect the number of crimes committed.  
+#### Overall, there seems to be a strong positive correlation between crime and migration, however this relationship seems to be weakening over the years. We can conclude that there is a relationship between crime and migration. 
 
 ### **Services**
 
