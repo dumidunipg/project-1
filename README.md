@@ -6,6 +6,29 @@ UCSD Project 1
 
 ### **Census**
 
+#### Question: Is there a relationship between migration and  employment rate/poverty for the years 2016 to 2021?
+
+#### API: The reason I choose the ACS API is because it covers a broad range of topics about the social, economic, demographic, and housing characteristics of the U.S. population.
+
+#### The variables used for the table are:   
+- employed civilians(B23025_004E), unemployed civilians(B23025_005E), employable civilians(B23025_003E)   
+- median household income(B19013_001E), per capita income(B19301_001E)   
+- total population(B01003_001E)
+- total amount of people moved from different states (B07001_065E)   
+
+#### Draws a scatter plot with linear regression to find the correlation between the total migration and employment rate from 2016 to 2021
+[Average Total Migration VS Average Employed Rate](https://github.com/dumidunipg/project-1/blob/main/Census/Output/Average%20Total%20Migration%20VS%20Average%20Employed%20Rate.png)
+- The r-value is: -0.18522171871992268   
+- The p-value is: 0.19782779538438497   
+
+From the plot, see that the average employment rate jumps around 40 to 50% while the average total migration from other states changes. Also, since the r-value is -0.18522171871992268, it is pretty close to 0. Conclude total migration and employment rate has no correlation. But the p_value is 0.19782779538438497, it is greater than 0.05. Therefore this data does not provide strong evidence to support the conclusion total migration and employment rate have no correlation.
+
+#### Draws a scatter plot with linear regression to find the correlation between the total migration and median household income from 2016 to 2021
+[Average Total Migration VS Average Median Household Income](https://github.com/dumidunipg/project-1/blob/main/Census/Output/Average%20Total%20Migration%20VS%20Average%20Median%20Household%20Income.png)
+- The r-value is: 0.0593554745173882   
+- The p-value is: 0.6822077337202334     
+
+From the plot, see that the average median household income jumps around while the average total migration from other states changes. Also, since the r-value is 0.0593554745173882, it is pretty close to 0. Conclude total migration and median household income has no correlation. But the p_value is 0.6822077337202334, it is greater than 0.05. Therefore this data does not provide strong evidence to support the conclusion total migration and median household income have no correlation.
 
 
 ### **Crime**
