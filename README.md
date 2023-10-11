@@ -108,6 +108,9 @@ The p-values for each year as well as all years are well below the 0.05 threshol
 
 ## APIs Used:
 
+### Census API
+
+- https://www.census.gov/data/developers/data-sets/acs-5year.html
 
 ### Crime API
 
@@ -125,7 +128,9 @@ The p-values for each year as well as all years are well below the 0.05 threshol
 
 ### **Census**
 
-
+#### Find the Variables:
+- https://api.census.gov/data/2019/acs/acs5/groups.html
+- https://gist.github.com/afhaque/60558290d6efd892351c4b64e5c01e9b
 
 ### **Crime**
 
