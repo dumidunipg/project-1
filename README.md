@@ -77,7 +77,8 @@ The p-values for each year as well as all years are well below the 0.05 threshol
 - The popularity of service and leisure categories have a weakly negative relationship with the average total migration between states, so people who migrate do not consider or value the popularity of public services or parks in a given state. However, we cannot be confident in this conclusion as only 0.0037% and 0.0481% of the variability observed in the service and leisure categories, respectively, is explained by the linear regresion model.
 - The popularity of commercial, religion, and tourism categories have a weakly positive relationship with the average total migration between states, so people who migrate weakly consider or value the popularity of, for example, supermarkets, religious institutions, or tourist attractions in a given state. However, we cannot be confident in this conclusion for the commercial and religion categories, as only 0.6362% and 2.1894%, respectively, of the variability observed in each category is explained by the linear regresion model. 
 - In contrast, with the highest r-squared value of 0.07, the p-value for tourism is 0.0564, which is close to the value where it is considered statistically significant. With a slightly higher threshold for the p-value of 0.06, we can reject the null hypothesis and conclude that there is a statistically significant and positive relationship between the popularity of the tourism category and migration between states in the US.
-- Simply put, an increase in popularity of tourist attractions in a given state increases the average number of migrations into that state between 2016 and 2021.
+
+#### In conclusion, we can weakly argue that an increase in popularity of tourist attractions in a given state increases the average number of migrations in that state between 2016 and 2021.
 
 ### **Transportation**
 
